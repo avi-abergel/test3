@@ -1,2 +1,2 @@
-var connectionsCount=10
+var connectionsCount=20
 dispenserCount=10
