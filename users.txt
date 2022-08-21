@@ -1,2 +1,3 @@
 var connectionsCount=20
 dispenserCount=10
+pipesCount=200
